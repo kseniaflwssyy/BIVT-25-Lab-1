@@ -2553,39 +2553,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Markosias\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Markosias\\Documents\\BIVT-25\\BIVT-25-Lab-1\\Lab1test\\Lab1test.csproj",
+      "projectUniqueName": "/workspaces/BIVT-25-Lab-1/Lab1test/Lab1test.csproj",
       "projectName": "Lab1test",
-      "projectPath": "C:\\Users\\Markosias\\Documents\\BIVT-25\\BIVT-25-Lab-1\\Lab1test\\Lab1test.csproj",
-      "packagesPath": "C:\\Users\\Markosias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Markosias\\Documents\\BIVT-25\\BIVT-25-Lab-1\\Lab1test\\obj\\",
+      "projectPath": "/workspaces/BIVT-25-Lab-1/Lab1test/Lab1test.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/BIVT-25-Lab-1/Lab1test/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Markosias\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Markosias\\Documents\\BIVT-25\\BIVT-25-Lab-1\\Lab1\\Lab1.csproj": {
-              "projectPath": "C:\\Users\\Markosias\\Documents\\BIVT-25\\BIVT-25-Lab-1\\Lab1\\Lab1.csproj"
+            "/workspaces/BIVT-25-Lab-1/Lab1/Lab1.csproj": {
+              "projectPath": "/workspaces/BIVT-25-Lab-1/Lab1/Lab1.csproj"
             }
           }
         }
@@ -2599,8 +2592,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -2635,7 +2627,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
